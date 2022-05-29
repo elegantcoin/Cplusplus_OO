@@ -1698,20 +1698,4 @@ int main()
 
      return 0;
 }
-
-
-#
-#test39.cpp|       8
-
-#include <iostream>
-#include <vector>
-#include <string>
-
-using namespace std;
-
-int main()
-{
-}
-
-
 ```
