@@ -19,7 +19,7 @@ Lecture Notes for Learning the Julia language
 
 ```
 
-## :fire 1.
+## :fire: 1.
 
 ```C++
 // #include "stdafx.h"
@@ -57,7 +57,7 @@ int main(void)
 }
 ```
 
-## :fire 2.
+## :fire: 2.
 
 ```C++
 #include <iostream>
@@ -80,7 +80,7 @@ int main()
 
 ```
 
-## :fire 3.
+## :fire: 3.
 
 ```C++
 #include <iostream>
@@ -104,7 +104,7 @@ int main()
 ```
 
 
-## :fire 4.
+## :fire: 4.
 
 ```C++
 #include <iostream>
@@ -134,7 +134,7 @@ int main()
 
 ```
 
-## :fire 5.
+## :fire: 5.
 
 ```C++
 #include <iostream>
@@ -171,7 +171,7 @@ void show(int first, float second, long third)
 
 ```
 
-## :fire 6.
+## :fire: 6.
 
 ```C++
 #include <iostream>
@@ -214,7 +214,7 @@ void a(int i, int j)
 
 ```
 
-## :fire 7.
+## :fire: 7.
 
 ```C++
 #include <iostream>
@@ -252,7 +252,7 @@ int main()
 
 ```
 
-## :fire 8.
+## :fire: 8.
 
 ```C++
 #include <iostream>
@@ -280,7 +280,7 @@ int main()
 
 ```
 
-## :fire 9.
+## :fire: 9.
 
 ```C++
 #include <iostream>
@@ -313,7 +313,7 @@ int main(int argc, char *argv[])
 
 ```
 
-## :fire 10.
+## :fire: 10.
 
 ```C++
 #include <iostream>
@@ -337,7 +337,7 @@ int main()
 
 ```
 
-## :fire 11.
+## :fire: 11.
 
 ```C++
 #include <iostream>
@@ -374,7 +374,7 @@ int main(int argc, char *argv[])
 
 ```
 
-## :fire 12.
+## :fire: 12.
 
 ```C++
 #include <iostream>
@@ -398,7 +398,7 @@ return 0;
 
 ```
 
-## :fire 13.
+## :fire: 13.
 
 ```C++
 #include <iostream>
@@ -470,7 +470,7 @@ int main()
 
 ```
 
-## :fire 14.
+## :fire: 14.
 
 ```C++
 #include <iostream>
@@ -511,7 +511,7 @@ int main()
 
 ```
 
-## :fire 15.
+## :fire: 15.
 
 ```C++
 #include <iostream>
@@ -555,7 +555,7 @@ int main()
 
 ```
 
-## :fire 16.
+## :fire: 16.
 
 ```C++
 #include <iostream>
@@ -614,7 +614,7 @@ int main()
 
 ```
 
-## :fire 17.
+## :fire: 17.
 
 ```C++
 #include <iostream>
@@ -683,7 +683,7 @@ int main()
 
 ```
 
-## :fire 18.
+## :fire: 18.
 
 ```C++
 #include <iostream>
@@ -768,7 +768,7 @@ int main()
 
 ```
 
-## :fire 19.
+## :fire: 19.
 
 ```C++
 #include <iostream>
@@ -821,7 +821,7 @@ int main()
 
 
 
-## :fire 20.
+## :fire: 20.
 
 ```C++
 #include <iostream>
@@ -898,7 +898,7 @@ int main()
 
 ```
 
-## :fire 21.
+## :fire: 21.
 
 ```C++
 #include <iostream>
@@ -931,7 +931,7 @@ int main(int argc, char *argv[])
 
 ```
 
-## :fire 22.
+## :fire: 22.
 
 ```C++
 #include <iostream>
@@ -968,7 +968,7 @@ int main()
 
 ```
 
-## :fire 23.
+## :fire: 23.
 
 ```C++
 #include <iostream>
@@ -1022,7 +1022,7 @@ int main(int argc, char *argv[])
 
 ```
 
-## :fire 24.
+## :fire: 24.
 
 ```C++
 #include <iostream>
@@ -1076,7 +1076,7 @@ int main(int argc, char *argv[])
 
 ```
 
-## :fire 25.
+## :fire: 25.
 
 ```C++
 #include <iostream>
@@ -1127,7 +1127,7 @@ int main(int argc, char *argv[])
 
 ```
 
-## :fire 26.
+## :fire: 26.
 
 ```C++
 #include <iostream>
@@ -1187,7 +1187,7 @@ int main()
 
 ```
 
-## :fire 27.
+## :fire: 27.
 
 ```C++
 #include <iostream>
@@ -1227,7 +1227,7 @@ int main()
 
 ```
 
-## :fire 28.
+## :fire: 28.
 
 ```C++
 #include <iostream>
@@ -1262,7 +1262,7 @@ int main()
 
 ```
 
-## :fire 29.
+## :fire: 29.
 
 ```C++
 #include <iostream>
@@ -1305,7 +1305,7 @@ int main()
 ```
 
 
-## :fire 30.
+## :fire: 30.
 
 ```C++
 #include <iostream>
@@ -1347,7 +1347,7 @@ int main()
 
 ```
 
-## :fire 31.
+## :fire: 31.
 
 ```C++
 #include <iostream>
@@ -1406,7 +1406,7 @@ int main()
 
 ```
 
-## :fire 32.
+## :fire: 32.
 
 ```C++
 #include <iostream>
@@ -1458,7 +1458,7 @@ int main()
 
 ```
 
-## :fire 33.
+## :fire: 33.
 
 ```C++
 #include <iostream>
@@ -1487,7 +1487,7 @@ int main()
 
 ```
 
-## :fire 34.
+## :fire: 34.
 
 ```C++
 #include <iostream>
@@ -1512,7 +1512,7 @@ int main()
 
 ```
 
-## :fire 35.
+## :fire: 35.
 
 ```C++
 #include <iostream>
@@ -1556,7 +1556,7 @@ int main()
 
 ```
 
-## :fire 36.
+## :fire: 36.
 
 ```C++
 #include <iostream>
@@ -1598,7 +1598,7 @@ int main()
 
 ```
 
-## :fire 37.
+## :fire: 37.
 
 ```C++
 #include <iostream>
@@ -1639,7 +1639,7 @@ int main()
 
 ```
 
-## :fire 38.
+## :fire: 38.
 
 ```C++
 #include <iostream>
